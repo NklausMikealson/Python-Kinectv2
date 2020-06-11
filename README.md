@@ -1,7 +1,11 @@
 # Python-Kinectv2
 This repo shows how to use Python connect the Kinect v2 camera
+[TOC]
+
+# English Version
 ## 1 Environment
 
+- Windows 10
 - Anaconda 64-bit（32-bit is ok）
 - NumPy
 - comtypes
@@ -39,9 +43,10 @@ python mapper.py
 ## Acknowledgement
 A large portion of code is borrowed from [Kinect/PyKinect2](https://github.com/Kinect/PyKinect2) and [KonstantinosAng/PyKinect2-Mapper-Functions](https://github.com/KonstantinosAng/PyKinect2-Mapper-Functions), many thanks to their wonderful work!
 
-# 使用python连接Kinect v2相机
 
-我已将所有的工程文件上传至Github中，请上git自取代码。
+# 中文版
+
+使用python连接Kinect v2相机
 
 ## 1 机器所需环境
 
@@ -81,4 +86,4 @@ python mapper.py
 ```
 
 ## Acknowledgement
-A large portion of code is borrowed from [Kinect/PyKinect2](https://github.com/Kinect/PyKinect2) and [KonstantinosAng/PyKinect2-Mapper-Functions](https://github.com/KonstantinosAng/PyKinect2-Mapper-Functions), many thanks to their wonderful work!
+大部分代码是从[Kinect/PyKinect2](https://github.com/Kinect/PyKinect2) 和 [KonstantinosAng/PyKinect2-Mapper-Functions](https://github.com/KonstantinosAng/PyKinect2-Mapper-Functions)获取的，我将他们的工作进行了组合,非常感谢他们的工作!
